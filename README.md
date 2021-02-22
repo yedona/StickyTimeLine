@@ -8,6 +8,4 @@ RecycleView悬浮标题 时间轴
 
 只能通过Canvas进行绘制
 
-![github](https://github.com/yedona/StickyTimeLine/blob/master/video/1.mp4 "video")  
-
-
+![github](https://github.com/yedona/StickyTimeLine/blob/master/img/1.jpg)  
